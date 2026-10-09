@@ -1,0 +1,26 @@
+﻿{
+  "id": "/",
+  "name": "Baked by Lucy",
+  "short_name": "Baked by Lucy",
+  "description": "Homemade treats, thoughtfully made with love.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF6E8",
+  "theme_color": "#FFF6E8",
+  "icons": [
+    {
+      "src": "/images/baked-by-lucy-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/baked-by-lucy.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
