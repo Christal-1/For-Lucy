@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8ad003ad-2d32-4510-ab3c-6ffeb80e01e4",
+    "name": "ice",
+    "category": "Cupcakes",
+    "description": "asdfawfs",
+    "price": 50,
+    "image": "./images/products/d0d2f326-3db6-4e35-acba-90121bdeb9a2.png",
+    "available": true,
+    "createdAt": "2026-10-09T09:08:51.628Z"
+  },
+  {
+    "id": "b073cd53-9ad7-4af1-9656-00920dfab216",
+    "name": "scones",
+    "category": "Cakes",
+    "description": "sfsssdgsd",
+    "price": 20,
+    "image": "./images/products/1a85b60e-0761-4910-8ea4-7a72d22329a3.png",
+    "available": true,
+    "createdAt": "2026-10-09T07:20:04.173Z"
+  }
+]
