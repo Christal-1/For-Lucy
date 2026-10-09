@@ -1,0 +1,36 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#FFF6E8"/>
+  <rect x="18" y="18" width="476" height="476" rx="98"
+        fill="none" stroke="#DDA5A0" stroke-width="8"/>
+  <g transform="translate(0 5)">
+    <path d="M256 250
+      C220 220 153 182 171 139
+      C188 101 232 115 256 150
+      C280 111 325 104 344 143
+      C366 188 293 230 256 250Z"
+      fill="#C86F79"/>
+    <path d="M174 274
+      Q155 248 178 237
+      Q198 228 212 247
+      Q230 226 249 244
+      Q265 262 248 280
+      L214 307Z"
+      fill="#D7A04C"/>
+    <path d="M174 274 Q213 293 248 280"
+      fill="none" stroke="#9C6841" stroke-width="7"
+      stroke-linecap="round"/>
+    <circle cx="192" cy="263" r="5" fill="#FFF0C9"/>
+    <circle cx="215" cy="269" r="5" fill="#FFF0C9"/>
+    <circle cx="232" cy="257" r="5" fill="#FFF0C9"/>
+  </g>
+  <text x="256" y="355" text-anchor="middle"
+        font-family="Georgia, serif" font-size="48"
+        font-weight="bold" fill="#713F45">Baked by</text>
+  <text x="256" y="416" text-anchor="middle"
+        font-family="Georgia, serif" font-size="68"
+        font-weight="bold" fill="#B85F70">Lucy</text>
+  <path d="M135 444 Q256 466 377 444"
+        fill="none" stroke="#DDA5A0" stroke-width="5"
+        stroke-linecap="round"/>
+</svg>
