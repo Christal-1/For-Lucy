@@ -1706,39 +1706,3 @@ h2 em {
   }
 }
 
-
-/* Meet Lucy — baker portrait */
-.lucy-photo-frame {
-  position: relative;
-  width: min(100%, 360px);
-  margin: 0 auto;
-  padding: 12px;
-  background: #fffafa;
-  border: 1px solid #f0d5dc;
-  border-radius: 180px 180px 24px 24px;
-  box-shadow: 0 12px 35px rgba(160, 95, 115, 0.12);
-}
-
-.lucy-photo {
-  display: block;
-  width: 100%;
-  aspect-ratio: 3 / 4;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 170px 170px 16px 16px;
-}
-
-.lucy-photo-caption {
-  display: block;
-  padding: 14px 8px 5px;
-  color: #986477;
-  font-family: "Playfair Display", serif;
-  font-style: italic;
-  text-align: center;
-}
-
-@media (max-width: 768px) {
-  .lucy-photo-frame {
-    width: min(100%, 300px);
-  }
-}
