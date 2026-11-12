@@ -6,7 +6,7 @@
     "category": "Biscuits",
     "description": "Delicious homemade golden finger biscuits, freshly baked and carefully packaged with love.",
     "price": 20,
-    "image": "/images/products/lucy-finger-biscuits-actual.png",
+    "image": "/images/products/lucy-finger-biscuits.png",
     "available": true,
     "createdAt": "2026-10-09T09:08:51.628Z"
   },
@@ -14,9 +14,9 @@
     "id": "b073cd53-9ad7-4af1-9656-00920dfab216",
     "name": "Homemade Scones",
     "category": "Scones",
-    "description": "Freshly baked, golden homemade scones, prepared with care and packaged with love.",
+    "description": "Freshly baked golden homemade scones, prepared with care and packaged with love.",
     "price": 20,
-    "image": "/images/products/lucy-scones-actual.png",
+    "image": "/images/products/lucy-scones.png",
     "available": true,
     "createdAt": "2026-10-09T07:20:04.173Z"
   }
